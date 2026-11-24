@@ -111,3 +111,4 @@ Screens never touch SQLite directly: **screen -> provider -> repository -> SQLit
 * Barcode scanning needs a camera; a keyboard entry button is included.
 * Sample data is test data only - remove it before real use.
 * Single store database; merging two phones that edited at the same time is **not** automatic (the conflict rule protects you from overwriting, you choose which version wins).
+
