@@ -106,6 +106,12 @@ Screens never touch SQLite directly: **screen -> provider -> repository -> SQLit
 5. Ledger tab: Daily / Monthly report PDF.
 6. Settings: connect Drive -> Backup Now -> Restore.
 7. Settings: Remove ALL data -> start entering your real products and customers.
+<img width="573" height="1280" alt="image" src="https://github.com/user-attachments/assets/98bcb42b-9dce-422e-90ff-86826aef4cc4" />
+<img width="573" height="1280" alt="image" src="https://github.com/user-attachments/assets/519aece1-d4cf-404d-81e7-7ef139a20705" />
+<img width="573" height="1280" alt="image" src="https://github.com/user-attachments/assets/1cafc433-b629-42ad-8d38-af4a5f92f81a" />
+<img width="573" height="1280" alt="image" src="https://github.com/user-attachments/assets/a0e369de-e495-4def-a4d2-e55ec614981c" />
+<img width="573" height="1280" alt="image" src="https://github.com/user-attachments/assets/51d47f5a-1813-41c1-a9d2-7beba143eec0" />
+
 
 ## 8. Known limits
 * Barcode scanning needs a camera; a keyboard entry button is included.
